@@ -1,1 +1,2 @@
 Lab report: Half Adder
+Theory: Sum = A XOR B, Carry = A AND B
